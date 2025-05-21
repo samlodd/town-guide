@@ -1,0 +1,741 @@
+{
+  "Past_Heroes": [
+    {
+      "name": "Moremi Ajasoro",
+      "period": "14th century",
+      "gender": "Female",
+      "description": "A legendary queen who played a significant role in the history of the Yoruba people.",
+      "accomplishments": "Legendary queen who sacrificed for her people's freedom"
+    },
+    {
+      "name": "Oduduwa",
+      "period": "Ancient times",
+      "gender": "Male",
+      "description": "Considered the ancestor of the crowned Yoruba kings.",
+      "accomplishments": "Legendary progenitor of the Yoruba people"
+    },
+    {
+      "name": "Oranmiyan",
+      "period": "12th century",
+      "gender": "Male",
+      "description": "A legendary Yoruba king who established several important dynasties.",
+      "accomplishments": "Founded multiple Yoruba kingdoms"
+    }
+  ],
+  "Sports_Facilities": [
+    {
+      "name": "Offa Township Stadium",
+      "type": "Stadium",
+      "description": "Main sports venue in Offa for football and athletics events.",
+      "location": "Central Offa",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "stadium@offasports.org"
+    },
+    {
+      "name": "Polytechnic Sports Complex",
+      "type": "Sports Center",
+      "description": "Multi-purpose sports center within Federal Polytechnic Offa.",
+      "location": "Federal Polytechnic Offa Campus",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "sports@fpo.edu.ng"
+    },
+    {
+      "name": "Offa Recreation Center",
+      "type": "Gym",
+      "description": "Modern fitness facility with training equipment and classes.",
+      "location": "Shawo District, Offa",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "info@offarecreation.com"
+    },
+    {
+      "name": "Youth Sports Arena",
+      "type": "Playground",
+      "description": "Open community playground for youth sports activities.",
+      "location": "Essa District, Offa",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "youth@offasports.org"
+    }
+  ],
+  "Past_Olofa_of_Offa": {
+    "description": "The Olofa of Offa is the paramount traditional ruler of Offa. The position has existed for centuries and continues to be a vital institution that preserves the cultural heritage of the Offa people while adapting to modern realities. The Olofa serves as the custodian of tradition and the symbolic father of all Offa people.",
+    "rulers": [
+      {
+        "name": "Oba Mustapha Olawore Olanipekun Ariwajoye",
+        "reign": "2010 - Present",
+        "biography": "The current Olofa of Offa, His Royal Majesty Oba Mustapha Olawore Olanipekun Ariwajoye has continued the modernization of Offa while preserving its rich cultural heritage.",
+        "key_accomplishments": [
+          "Established the annual Ijakadi Festival",
+          "Modernized the palace infrastructure",
+          "Improved community relations"
+        ],
+        "location": "Olofa's Palace, Central Offa"
+      },
+      {
+        "name": "Oba Muhammadu Olawore Olanipekun Ariwajoye I",
+        "reign": "1970 - 2010",
+        "biography": "Oba Muhammadu Olawore led Offa through decades of national transformation, from military rule through to democracy.",
+        "key_accomplishments": [
+          "Developed modern infrastructure in Offa",
+          "Established the Offa Descendants Union as a community development organization",
+          "Fostered educational advancement with support for schools and scholarships"
+        ]
+      },
+      {
+        "name": "Oba Wuraola Isioye",
+        "reign": "1957 - 1969",
+        "biography": "Oba Wuraola Isioye led Offa through the transition from colonial rule to independence and the early post-independence years.",
+        "key_accomplishments": [
+          "Led Offa through Nigeria's independence era",
+          "Preserved traditional institutions amidst modernization",
+          "Established the first modern market in Offa"
+        ]
+      },
+      {
+        "name": "Oba Atoloye Olugbense",
+        "reign": "1935 - 1956",
+        "biography": "Oba Atoloye Olugbense was instrumental in navigating Offa through the later colonial period and establishing foundations for modern governance.",
+        "key_accomplishments": [
+          "Collaborated with colonial authorities to develop early infrastructure",
+          "Encouraged Western education among Offa youth",
+          "Revived traditional festivals"
+        ]
+      }
+    ]
+  },
+  "District_Heads": {
+    "description": "Offa is traditionally divided into five districts, each led by a High Chief who serves as a member of the traditional council under the Olofa of Offa. These district heads are custodians of culture, tradition and act as intermediaries between the people and the traditional ruler.",
+    "districts": [
+      {
+        "name": "Balogun District",
+        "chief_title": "Chief Balogun Ajikobi",
+        "description": "Balogun District is one of the five traditional districts of Offa. It is known for its rich cultural heritage and historical significance in warfare and defense of the town.",
+        "biography": "Traditional leader of Balogun district with extensive knowledge of local customs and traditions. The Balogun title historically belongs to the war chief of Offa, responsible for the defense of the town.",
+        "location": "Balogun Palace, Balogun District, Offa",
+        "contact": "+234 XXX XXX XXXX",
+        "past_heads": [
+          {
+            "name": "Chief Saliu Ajikobi",
+            "tenure": "1990 - 2015",
+            "accomplishment": "Modernized the district administrative systems"
+          },
+          {
+            "name": "Chief Lamidi Ajikobi",
+            "tenure": "1975 - 1990",
+            "accomplishment": "Established the annual Balogun cultural festival"
+          }
+        ]
+      },
+      {
+        "name": "Ojomu District",
+        "chief_title": "Chief Ojomu",
+        "description": "Ojomu District is known as the commercial hub of traditional Offa, with bustling markets and trade centers that have existed for centuries.",
+        "biography": "Traditional leader of Ojomu district, responsible for maintaining peace and order in the community. The Ojomu chieftaincy title has been instrumental in the commercial development of Offa.",
+        "location": "Ojomu Palace, Ojomu District, Offa",
+        "contact": "+234 XXX XXX XXXX",
+        "past_heads": [
+          {
+            "name": "Chief Mustapha Ojomu",
+            "tenure": "1995 - 2018",
+            "accomplishment": "Promoted commercial activities in the district"
+          },
+          {
+            "name": "Chief Abdulrahman Ojomu",
+            "tenure": "1980 - 1995",
+            "accomplishment": "Established the district development committee"
+          }
+        ]
+      },
+      {
+        "name": "Essa District",
+        "chief_title": "Chief Essa",
+        "description": "Essa District is regarded as the spiritual and traditional heart of Offa, housing many ancient shrines and cultural landmarks.",
+        "biography": "Traditional leader of Essa district, known for promoting cultural heritage and community development. The Eesa is considered the prime minister in the traditional hierarchy of Offa.",
+        "location": "Essa Palace, Essa District, Offa",
+        "contact": "+234 XXX XXX XXXX",
+        "past_heads": [
+          {
+            "name": "Chief Yusufu Essa",
+            "tenure": "1988 - 2016",
+            "accomplishment": "Restored many cultural practices and heritage sites"
+          },
+          {
+            "name": "Chief Jimoh Essa",
+            "tenure": "1970 - 1988",
+            "accomplishment": "Documented the oral history of Essa district"
+          }
+        ]
+      },
+      {
+        "name": "Shawo District",
+        "chief_title": "Chief Shawo",
+        "description": "Shawo District is named after the founder of Offa and maintains many landmarks connected to the town's origins.",
+        "biography": "Traditional leader of Shawo district, focused on youth development and community growth. The Shawo title connects directly to the lineage of the founder of Offa.",
+        "location": "Shawo Palace, Shawo District, Offa",
+        "contact": "+234 XXX XXX XXXX",
+        "past_heads": [
+          {
+            "name": "Chief Adebayo Shawo",
+            "tenure": "1992 - 2019",
+            "accomplishment": "Established youth empowerment programs"
+          },
+          {
+            "name": "Chief Muraina Shawo",
+            "tenure": "1978 - 1992",
+            "accomplishment": "Built the modern Shawo Palace complex"
+          }
+        ]
+      },
+      {
+        "name": "Asalofa District",
+        "chief_title": "Chief Asalofa",
+        "description": "Asalofa District is known for its educational institutions and has produced many scholars that have contributed to the development of Offa.",
+        "biography": "Traditional leader of Asalofa district, advocate for educational advancement in the community. The Asalofa title is closely aligned with the Olofa and plays an advisory role in the traditional council.",
+        "location": "Asalofa Palace, Asalofa District, Offa",
+        "contact": "+234 XXX XXX XXXX",
+        "past_heads": [
+          {
+            "name": "Chief Raheem Asalofa",
+            "tenure": "1990 - 2017",
+            "accomplishment": "Established scholarship programs for district residents"
+          },
+          {
+            "name": "Chief Kareem Asalofa",
+            "tenure": "1972 - 1990",
+            "accomplishment": "Built the first community library in the district"
+          }
+        ]
+      }
+    ]
+  },
+  "Offa_Descendants_Union": {
+    "description": "The Offa Descendants Union (ODU) is the primary socio-cultural organization representing the interests of all Offa indigenes both at home and in the diaspora. Founded in the early 20th century, ODU has been instrumental in the development of Offa through educational initiatives, infrastructure development, and cultural preservation. The organization operates through a central executive body and various chapters worldwide, bringing together Offa sons and daughters to contribute to their homeland's progress.",
+    "current_executives": [
+      {
+        "name": "Dr. Funsho Oladipo",
+        "position": "National President",
+        "term": "2022 - Present",
+        "biography": "Dr. Oladipo is a renowned academic who has dedicated his leadership to youth empowerment and educational advancement in Offa.",
+        "key_achievements": [
+          "Launched the ODU scholarship fund",
+          "Revitalized the annual Offa Day celebration",
+          "Strengthened relationships with diaspora chapters"
+        ],
+        "email": "president@odu.org"
+      },
+      {
+        "name": "Chief Bisi Adeyemi",
+        "position": "National Secretary",
+        "term": "2022 - Present",
+        "biography": "Chief Adeyemi brings decades of administrative experience to the role of National Secretary.",
+        "key_achievements": [
+          "Digitized ODU records",
+          "Improved communication channels between chapters",
+          "Organized successful fundraising drives"
+        ],
+        "email": "secretary@odu.org"
+      },
+      {
+        "name": "Alhaji Ibrahim Olaniyi",
+        "position": "National Treasurer",
+        "term": "2022 - Present",
+        "biography": "Alhaji Olaniyi is a financial expert with experience in both public and private sectors.",
+        "key_achievements": [
+          "Implemented transparent financial reporting",
+          "Increased ODU's investment portfolio",
+          "Secured grants for community projects"
+        ],
+        "email": "treasurer@odu.org"
+      },
+      {
+        "name": "Mrs. Funmilayo Adegbite",
+        "position": "Public Relations Officer",
+        "term": "2022 - Present",
+        "biography": "Mrs. Adegbite has a background in communications and community organization.",
+        "key_achievements": [
+          "Enhanced ODU's social media presence",
+          "Coordinated community outreach programs",
+          "Initiated the quarterly ODU newsletter"
+        ],
+        "email": "pro@odu.org"
+      }
+    ],
+    "past_executives": [
+      {
+        "name": "Dr. Gbadamosi Lawal",
+        "position": "National President",
+        "term": "2018 - 2022",
+        "key_achievements": [
+          "Led the reconstruction of the ODU national headquarters",
+          "Established the Offa heritage museum initiative"
+        ]
+      },
+      {
+        "name": "Chief Adebayo Salami",
+        "position": "National President",
+        "term": "2014 - 2018",
+        "key_achievements": [
+          "Expanded ODU's reach with five new international chapters",
+          "Organized the first global Offa diaspora summit"
+        ]
+      },
+      {
+        "name": "Alhaja Kuburat Olayinka",
+        "position": "National Secretary",
+        "term": "2014 - 2022",
+        "key_achievements": [
+          "Served two terms with distinction",
+          "Modernized ODU's administrative processes"
+        ]
+      },
+      {
+        "name": "Mr. Jide Ogunlowo",
+        "position": "National Treasurer",
+        "term": "2014 - 2022",
+        "key_achievements": [
+          "Maintained financial stability through economic downturns",
+          "Increased membership dues collection efficiency"
+        ]
+      }
+    ],
+    "chapters": {
+      "international": [
+        {
+          "name": "ODU United Kingdom",
+          "description": "One of the oldest and largest ODU chapters outside Nigeria, the UK chapter has been instrumental in educational initiatives and medical outreach programs.",
+          "president": "Dr. Kayode Oyelade",
+          "established": "1985",
+          "members": "~350",
+          "email": "uk@odu.org"
+        },
+        {
+          "name": "ODU United States",
+          "description": "With multiple sub-chapters across major U.S. cities, this chapter sponsors annual scholarship programs and organizes regular cultural events.",
+          "president": "Mrs. Bola Afolayan",
+          "established": "1978",
+          "members": "~420",
+          "email": "us@odu.org"
+        },
+        {
+          "name": "ODU Canada",
+          "description": "Known for its strong youth programs and mentorship initiatives that help young Offa descendants maintain cultural connections.",
+          "president": "Mr. Kunle Ogunlana",
+          "established": "1992",
+          "members": "~180",
+          "email": "canada@odu.org"
+        },
+        {
+          "name": "ODU Australia",
+          "description": "Though smaller than other international chapters, the Australia chapter is highly active in business networking and investment opportunities for Offa.",
+          "president": "Chief Adekunle Bamidele",
+          "established": "1998",
+          "members": "~120",
+          "email": "australia@odu.org"
+        }
+      ],
+      "nigeria": [
+        {
+          "name": "ODU Lagos",
+          "description": "The largest domestic chapter, pioneering many initiatives that were later adopted nationwide. Hosts the annual Offa Day celebration in Lagos.",
+          "president": "Alhaji Mustapha Ibrahim",
+          "established": "1952",
+          "members": "~850",
+          "email": "lagos@odu.org"
+        },
+        {
+          "name": "ODU Abuja",
+          "description": "Leverages its location in the capital to advocate for Offa's interests at the federal level and coordinate government partnerships.",
+          "president": "Dr. Funmi Olatunji",
+          "established": "1990",
+          "members": "~520",
+          "email": "abuja@odu.org"
+        },
+        {
+          "name": "ODU Kaduna",
+          "description": "A vibrant northern chapter focused on education and inter-cultural relationships in northern Nigeria.",
+          "president": "Mr. Segun Adeniyi",
+          "established": "1972",
+          "members": "~310",
+          "email": "kaduna@odu.org"
+        },
+        {
+          "name": "ODU Port Harcourt",
+          "description": "Active in the oil and gas industry, this chapter helps create employment opportunities for Offa indigenes in the sector.",
+          "president": "Chief Olusegun Bankole",
+          "established": "1985",
+          "members": "~265",
+          "email": "portharcourt@odu.org"
+        }
+      ]
+    }
+  },
+  "Professors": [
+    {
+      "name": "Prof. Olawale Ibrahim",
+      "field": "Engineering",
+      "institution": "University of Ilorin",
+      "family_compound": "Gbagba Compound"
+    },
+    {
+      "name": "Prof. Folashade Ogunshola",
+      "field": "Medicine",
+      "institution": "University of Lagos",
+      "family_compound": "Ojomu Compound"
+    },
+    {
+      "name": "Prof. Mustapha Akanbi",
+      "field": "Law",
+      "institution": "University of Ibadan",
+      "family_compound": "Essa Compound"
+    },
+    {
+      "name": "Prof. Binta Olayemi",
+      "field": "Agriculture",
+      "institution": "Federal University of Technology, Akure",
+      "family_compound": "Shawo Compound"
+    }
+  ],
+  "Fun_Facts": [
+    "Offa is home to one of the oldest walls in Nigeria, the Offa Earthwork, which dates back centuries.",
+    "The Olofa of Offa is one of the most respected traditional rulers in Nigeria",
+    "Offa is known for its vibrant 'Ijakadi' wrestling festival which celebrates the town's heritage.",
+    "Federal Polytechnic Offa is one of the most prominent higher institutions in the region.",
+    "Offa is considered the commercial hub of Kwara South and hosts numerous financial institutions.",
+    "The Offa Descendants Union (ODU) has chapters in many countries around the world.",
+    "Offa has produced numerous professors, politicians, and business leaders who have made significant impacts nationally.",
+    "Moremi shrine, located in Offa, is a significant historical and cultural site.",
+    "Offa is known for its unique traditional cloth weaving techniques.",
+    "Offa Grammar School, established in 1943, is one of the oldest secondary schools in the region."
+  ],
+  "Job_Vacancies": [
+    {
+      "position": "Administrative Officer",
+      "status": "New",
+      "employer": "Offa Local Government",
+      "location": "Offa, Kwara",
+      "description": "Seeking an administrative officer with excellent organizational skills.",
+      "contact": "jobs@offalg.gov.ng",
+      "deadline": "2025-06-15"
+    },
+    {
+      "position": "Mathematics Teacher",
+      "status": "New",
+      "employer": "Offa Grammar School",
+      "location": "Offa, Kwara",
+      "description": "Looking for a qualified mathematics teacher for senior secondary classes.",
+      "contact": "principal@offagrammar.edu.ng",
+      "deadline": "2025-06-10"
+    },
+    {
+      "position": "Sales Representative",
+      "status": "New",
+      "employer": "Offa Microfinance Bank",
+      "location": "Offa, Kwara",
+      "description": "Sales representative needed for marketing financial products.",
+      "contact": "careers@offamfb.com",
+      "deadline": "2025-06-20"
+    }
+  ],
+  "Schools": {
+    "Public_Schools": {
+      "Tertiary_Institutions": [
+        {
+          "name": "Federal Polytechnic Offa",
+          "type": "Federal Polytechnic",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "info@fpo.edu.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Dr. Lateef Olatunji",
+              "position": "Rector",
+              "tenure": "2019 - Present"
+            },
+            {
+              "name": "Dr. Hanna Oniye",
+              "position": "Rector",
+              "tenure": "2014 - 2018"
+            },
+            {
+              "name": "Dr. Mufutau Olatinwo",
+              "position": "Rector",
+              "tenure": "2010 - 2014"
+            }
+          ]
+        },
+        {
+          "name": "Kwara State College of Health Technology, Offa",
+          "type": "State College",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "info@kwarachealthtech.edu.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Dr. Ade Kuforiji",
+              "position": "Provost",
+              "tenure": "2020 - Present"
+            },
+            {
+              "name": "Dr. Sarah Lawal",
+              "position": "Provost",
+              "tenure": "2015 - 2020"
+            }
+          ]
+        },
+        {
+          "name": "Kwara State College of Education, Offa",
+          "type": "State College",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "info@kwaraedu.edu.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Prof. Jimoh Ibrahim",
+              "position": "Provost",
+              "tenure": "2018 - Present"
+            },
+            {
+              "name": "Dr. Bola Ahmed",
+              "position": "Provost",
+              "tenure": "2013 - 2018"
+            }
+          ]
+        }
+      ],
+      "Secondary_Schools": [
+        {
+          "name": "Government Secondary School, Offa",
+          "type": "State Secondary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "gssoffa@education.kw.gov.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Mrs. Aisha Yusuf",
+              "position": "Principal",
+              "tenure": "2021 - Present"
+            },
+            {
+              "name": "Mr. Johnson Oladele",
+              "position": "Principal",
+              "tenure": "2015 - 2021"
+            }
+          ]
+        },
+        {
+          "name": "Offa Grammar School",
+          "type": "State Secondary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "offagrammar@education.kw.gov.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Mr. Abiodun Salako",
+              "position": "Principal",
+              "tenure": "2019 - Present"
+            },
+            {
+              "name": "Mrs. Folake Ademola",
+              "position": "Principal",
+              "tenure": "2012 - 2019"
+            }
+          ]
+        }
+      ],
+      "Primary_Schools": [
+        {
+          "name": "Offa Central Primary School",
+          "type": "State Primary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "centralprimary@education.kw.gov.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Mr. Sunday Olanrewaju",
+              "position": "Headmaster",
+              "tenure": "2022 - Present"
+            },
+            {
+              "name": "Mrs. Janet Ibrahim",
+              "position": "Headmistress",
+              "tenure": "2017 - 2022"
+            }
+          ]
+        },
+        {
+          "name": "L.E.A Primary School, Offa",
+          "type": "State Primary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "leaoffa@education.kw.gov.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Mrs. Florence Adeoye",
+              "position": "Headmistress",
+              "tenure": "2020 - Present"
+            },
+            {
+              "name": "Mr. Garba Mohammed",
+              "position": "Headmaster",
+              "tenure": "2015 - 2020"
+            }
+          ]
+        }
+      ]
+    },
+    "Private_Schools": {
+      "Tertiary_Institution": {
+        "name": "Summit University",
+        "type": "Private University",
+        "location": "Offa, Kwara State",
+        "contact": {
+          "email": "info@summituniversity.edu.ng",
+          "phone": "+234-XXX-XXX-XXXX"
+        },
+        "past_leadership": [
+          {
+            "name": "Prof. Hussein Oloyede",
+            "position": "Vice Chancellor",
+            "tenure": "2018 - Present"
+          },
+          {
+            "name": "Prof. Abdullah Balogun",
+            "position": "Vice Chancellor",
+            "tenure": "2015 - 2018"
+          }
+        ]
+      },
+      "Secondary_Schools": [
+        {
+          "name": "Olatunde International College, Offa",
+          "type": "Private Secondary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "admin@olatunde.edu.ng",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Dr. Ibrahim Omolaja",
+              "position": "Principal",
+              "tenure": "2019 - Present"
+            },
+            {
+              "name": "Mrs. Victoria James",
+              "position": "Principal",
+              "tenure": "2014 - 2019"
+            }
+          ]
+        },
+        {
+          "name": "Faith Academy, Offa",
+          "type": "Private Secondary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "faithacademy@gmail.com",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Pastor Samuel Johnson",
+              "position": "Principal",
+              "tenure": "2020 - Present"
+            },
+            {
+              "name": "Mrs. Elizabeth Adeyemi",
+              "position": "Principal",
+              "tenure": "2015 - 2020"
+            }
+          ]
+        }
+      ],
+      "Primary_Schools": [
+        {
+          "name": "St. Claire Nursery & Primary School",
+          "type": "Private Primary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "stclaire@gmail.com",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Mrs. Helen Ogunleye",
+              "position": "Headmistress",
+              "tenure": "2021 - Present"
+            },
+            {
+              "name": "Mr. Felix Adebayo",
+              "position": "Headmaster",
+              "tenure": "2016 - 2021"
+            }
+          ]
+        },
+        {
+          "name": "Sunshine Montessori School",
+          "type": "Private Primary School",
+          "location": "Offa, Kwara State",
+          "contact": {
+            "email": "sunshine@gmail.com",
+            "phone": "+234-XXX-XXX-XXXX"
+          },
+          "past_leadership": [
+            {
+              "name": "Mrs. Fatima Bello",
+              "position": "Headmistress",
+              "tenure": "2019 - Present"
+            },
+            {
+              "name": "Dr. Kemi Adesoye",
+              "position": "Headmistress",
+              "tenure": "2014 - 2019"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Hotels": [
+    {
+      "name": "Royale Hotel",
+      "description": "A luxury hotel in the heart of Offa",
+      "location": "Central Offa, near Olofa's Palace",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "info@royalehotel.com"
+    },
+    {
+      "name": "Terminus Hotels & Suites",
+      "description": "Modern accommodation with excellent amenities",
+      "location": "Offa-Ira Road, Offa",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "bookings@terminushotels.com"
+    },
+    {
+      "name": "Heritage Lodge",
+      "description": "Traditional hospitality with modern comforts",
+      "location": "Essa District, Offa",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "stay@heritagelodge.com"
+    },
+    {
+      "name": "Offa Continental Hotel",
+      "description": "Business-friendly hotel with conference facilities",
+      "location": "Shawo District, near Federal Polytechnic",
+      "contact": "+234 XXX XXX XXXX",
+      "email": "reservations@offacontinental.com"
+    }
+  ]
+}
